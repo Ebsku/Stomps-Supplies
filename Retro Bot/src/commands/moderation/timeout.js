@@ -37,7 +37,7 @@ module.exports = {
     await user.send(
       "You've been timed out in " +
         interaction.guild.name +
-        "\nReason:" +
+        "\nReason: " +
         reason
     );
 
