@@ -5,6 +5,7 @@ A bot made to serve https://discord.gg/XXj7HekPEE.
 # Features
 
 - Modmail
+- Moderation commands (ban, kick, etc)
 - Fun commands
 - Random message from a file on mention
 
